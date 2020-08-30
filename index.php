@@ -12,7 +12,7 @@
 
 <div class="container">
   <h2>Log In/Sign Up Form Example in PHP and SQLITE Database</h2>
-  <button type="button" href="register.php" class="btn btn-primary">Sign Up</button>
+  <button type="button" href="registration.php" class="btn btn-primary">Sign Up</button>
   <button type="button" href="login.php" class="btn btn-primary active">Log in</button>
 </div>
 
